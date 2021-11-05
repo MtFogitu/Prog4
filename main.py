@@ -9,4 +9,4 @@ def rot(num):
             return num
     return int("".join([str(l) for l in num_list]))
 if __name__ == "__main__":
-    print(rot(9999))
+    print(rot(9696))
